@@ -1,0 +1,2 @@
+# ColdEmailGenerator
+Cold Email Generator 
