@@ -1,0 +1,2101 @@
+Roles,Skills,Experience,general_role
+Data Scientist,"Python, R, SQL, Machine Learning, Deep Learning, Pandas, Scikit-learn","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Deep Dive into LLMs, Hands-On Essentials: Data Warehousing Workshop, Generative AI for Everyone (DeepLearning.AI)
+WORK EXPERIENCE
+Data Scientist, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Resolved processing delays in a real-time loan approval system handling 1M+ applications annually by automating risk
+scoring models using Random Forest and XGBoost, reducing financial exposure from manual assessments and improving
+operational decision-making speed by 70%
+_ Designed and deployed scalable ML pipelines using Spark for high-volume loan data; implemented cross-validation, data
+mining, and time-based backtesting strategies to optimize model accuracy and ensure robust risk predictions
+_ Developed an AI-driven anomaly detection framework using Isolation Forest to flag irregular loan applications in real-time,
+reducing fraudulent approvals and strengthening fraud prevention and compliance monitoring processes by 30%
+_ Collaborated with data engineering teams to optimize Python, SQL, and Spark-based ETL workflows for structured, high-
+volume financial data pipelines, improving data preparation efficiency by 40% while ensuring operational reporting
+accuracy, data quality, and audit readiness
+_ Led model monitoring and performance visualization using Tableau dashboards, enabling real-time tracking of approval
+rates, default risks, and financial KPIs for C-suite leaders and operational managers
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Addressed data fragmentation issues impacting customer feature adoption and engagement insights for a CRM platform
+with 10K+ users, enabling data-driven decision-making
+_ Streamlined SQL-based ETL pipelines and developed Power BI dashboards with Python, improving data accuracy by 35%,
+reducing reporting turnaround by 60%, and boosting feature adoption by 40%
+_ Collaborated with product managers and engineers to align analytics with business goals, driving platform enhancements
+and targeted customer strategies
+PROJECTS
+AI Doctor assistant (Python, LLM, NLP) | Github
+_ Developed an AI-powered medical assistant using Python, Groq multimodal LLM, Whisper STT, Llama-3.2 Vision Model,
+ElevenLabs TTS, gTTS, and Gradio UI for real-time voice and image diagnostics
+_ Integrated APIs securely to enable seamless access to advanced speech recognition and vision models. This enhanced
+diagnostic accuracy, achieving 85%+ accuracy and reducing consultation time by 35%
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries
+_ Built an interactive Tableau dashboard visualizing salary ranges, job clusters, and in-demand skills for 1,000+ users to make
+informed career moves
+TECHNICAL SKILLS
+Programming & Scripting: Python, SQL, R, C++, JavaScript, Java, Bash, SAS, Linux
+Databases & Data Platforms: MySQL, Oracle, Snowflake, Cassandra, Amazon RDS
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing,
+statistical analysis, Tensorflow, Keras, Bayesian inference, NLP, LLMs, Hugging Face, Gen AI, RLFH, Agentic AI, Pre-tuning
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Git, GitLab, GitHub
+Data Visualization & ETL: Tableau, Power BI, Looker, Microsoft Excel, ELT (Extract Load Transform) pipelines",Data Scientist
+Healthcare Data Scientist,"Python, R, Bioinformatics, NLP, EHR Systems, Machine Learning","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner, Deep
+Dive into LLMs, Hands-On Essentials: Data Warehousing Workshop, Generative AI for Everyone (DeepLearning.AI)
+WORK EXPERIENCE
+Data Scientist, Healthcare Data Operations & Reporting | Persistent Systems| Mumbai, India Aug 2022 Ð Jun 2023
+_ Resolved delays in clinical decisions caused by fragmented EHR, claims, and lab data by engineering HIPAA-compliant healthcare
+pipelines using Python, SQL, and Pandas. Cut data retrieval time by 40% and enabled real-time patient summaries
+_ Built predictive healthcare analytics models using Random Forest, XGBoost, and SDOH inputs to forecast disease risk and
+readmissions. Improved prediction accuracy to 85%, supporting decision tools and proactive, value-based care
+_ Integrated AI-driven anomaly detection for claims adjudication, using Isolation Forest models to flag outliers in billing and coding
+data. Prevented $500K+ in revenue leakage and optimized reporting for finance and compliance
+_ Developed population health dashboards in Tableau, automating risk score, readmission, and care quality KPI reporting. Helped
+clinicians reduce patient safety events by 20% and cut manual reporting by 500+ hours
+_ Partnered with clinical, IT, and compliance teams to build scalable data workflows aligned with interoperability and HIPAA
+mandates. Improved audit-readiness reduced regulatory risks, and accelerated KPI reporting
+_ Designed scalable ML pipelines with PySpark and SQL for 1M+ patient records, using cross-validation and backtesting to boost
+model performance. Accelerated care decisions and reduced readmissions by 15%
+Cloud Engineer, Healthcare Data Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Aug 2022
+_ Designed scalable, serverless APIs using AWS API Gateway, Lambda, and gRPC, integrating with AWS RDS to securely unify
+healthcare data access for cross-functional clinical teams, reducing patient data retrieval bottlenecks across departments.
+_ Automated CI/CD pipelines with Jenkins, GitLab CI/CD, and AWS CodePipeline, reducing manual errors and improving deployment
+reliability for healthcare platforms, while enabling faster, seamless production rollouts for critical healthcare applications.
+_ Boosted API performance by 40%, cut data retrieval times by 20%, and shortened deployment cycles by 25%, delivering real-time
+clinical and patient insights via AWS QuickSight dashboards.
+_ Collaborated with data governance and compliance teams to ensure data workflows and APIs met HIPAA and interoperability
+mandates, reducing audit risks.
+Data Analyst | CompanyHub | Mumbai, India July 2019 Ð July 2021
+_ Addressed data fragmentation issues impacting customer feature adoption and engagement insights for a CRM platform with 10K+
+users, enabling data-driven decision-making
+_ Streamlined SQL-based ETL pipelines and developed Power BI dashboards with Python, improving data accuracy by 35%,
+reducing reporting turnaround by 60%, and boosting feature adoption by 40%
+_ Collaborated with product managers and engineers to align analytics with business goals, driving platform enhancements and
+targeted customer strategies
+PROJECTS
+AI Doctor assistant (Python, LLM, NLP) | Github
+_ Developed an AI-powered medical assistant using Python, Groq multimodal LLM, Whisper STT, Llama-3.2 Vision Model,
+ElevenLabs TTS, gTTS, and Gradio UI for real-time voice and image diagnostics
+_ Integrated APIs securely to enable seamless access to advanced speech recognition and vision models, enhancing diagnostic
+accuracy and responsiveness
+_ Achieved 85%+ diagnostic accuracy and reduced consultation time by 35%, improving patient engagement through lifelike
+conversational AI
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries
+_ Added AI-driven sentiment and skill demand models with Hugging Face, boosting job market trend accuracy by 20%.
+_ Built an interactive Tableau dashboard visualizing salary ranges, job clusters, and in-demand skills for 1,000+ users to make
+informed career moves
+TECHNICAL SKILLS
+Programming & Scripting: Python, SQL, R, C++, JavaScript, Java, Bash, SAS, Linux
+Databases & Data Platforms: MySQL, Oracle, Snowflake, Cassandra, Amazon RDS
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing,
+statistical analysis, Tensorflow, Keras, Bayesian inference, NLP, LLMs, Hugging Face, Gen AI, RLFH, Agentic AI, Pre-tuning
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Git, GitLab, GitHub
+Data Visualization & ETL: Tableau, Power BI, Looker, Microsoft Excel, ELT (Extract Load Transform) pipelines",Data Scientist
+Financial Data Scientist,"Python, SQL, Risk Modeling, Time Series Analysis, Tableau, Machine Learning","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Deep Dive into LLMs, Hands-On Essentials: Data Warehousing Workshop, Generative AI for Everyone (DeepLearning.AI)
+WORK EXPERIENCE
+Data Scientist, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Resolved processing delays in a real-time loan approval system handling 1M+ applications annually by automating risk
+scoring models using Random Forest and XGBoost, reducing financial exposure from manual assessments and improving
+operational decision-making speed by 70%
+_ Designed and deployed scalable ML pipelines using Spark for high-volume loan data; implemented cross-validation, data
+mining, and time-based backtesting strategies to optimize model accuracy and ensure robust risk predictions
+_ Developed an AI-driven anomaly detection framework using Isolation Forest to flag irregular loan applications in real-time,
+reducing fraudulent approvals and strengthening fraud prevention and compliance monitoring processes by 30%
+_ Collaborated with data engineering teams to optimize Python, SQL, and Spark-based ETL workflows for structured, high-
+volume financial data pipelines, improving data preparation efficiency by 40% while ensuring operational reporting
+accuracy, data quality, and audit readiness
+_ Led model monitoring and performance visualization using Tableau dashboards, enabling real-time tracking of approval
+rates, default risks, and financial KPIs for C-suite leaders and operational managers
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Addressed data fragmentation issues impacting customer feature adoption and engagement insights for a CRM platform
+with 10K+ users, enabling data-driven decision-making
+_ Streamlined SQL-based ETL pipelines and developed Power BI dashboards with Python, improving data accuracy by 35%,
+reducing reporting turnaround by 60%, and boosting feature adoption by 40%
+_ Collaborated with product managers and engineers to align analytics with business goals, driving platform enhancements
+and targeted customer strategies
+PROJECTS
+AI Doctor assistant (Python, LLM, NLP) | Github
+_ Developed an AI-powered medical assistant using Python, Groq multimodal LLM, Whisper STT, Llama-3.2 Vision Model,
+ElevenLabs TTS, gTTS, and Gradio UI for real-time voice and image diagnostics
+_ Integrated APIs securely to enable seamless access to advanced speech recognition and vision models. This enhanced
+diagnostic accuracy, achieving 85%+ accuracy and reducing consultation time by 35%
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries
+_ Built an interactive Tableau dashboard visualizing salary ranges, job clusters, and in-demand skills for 1,000+ users to make
+informed career moves
+TECHNICAL SKILLS
+Programming & Scripting: Python, SQL, R, C++, JavaScript, Java, Bash, SAS, Linux
+Databases & Data Platforms: MySQL, Oracle, Snowflake, Cassandra, Amazon RDS
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing,
+statistical analysis, Tensorflow, Keras, Bayesian inference, NLP, LLMs, Hugging Face, Gen AI, RLFH, Agentic AI, Pre-tuning
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Git, GitLab, GitHub
+Data Visualization & ETL: Tableau, Power BI, Looker, Microsoft Excel, ELT (Extract Load Transform) pipelines",Data Scientist
+Decision Scientist,"SQL, Python, Business Intelligence, Experimentation, Statistical Modeling","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Deep Dive into LLMs, Hands-On Essentials: Data Warehousing Workshop, Generative AI for Everyone (DeepLearning.AI)
+WORK EXPERIENCE
+Data Scientist, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Resolved processing delays in a real-time loan approval system handling 1M+ applications annually by automating risk
+scoring models using Random Forest and XGBoost, reducing financial exposure from manual assessments and improving
+operational decision-making speed by 70%
+_ Designed and deployed scalable ML pipelines using Spark for high-volume loan data; implemented cross-validation, data
+mining, and time-based backtesting strategies to optimize model accuracy and ensure robust risk predictions
+_ Developed an AI-driven anomaly detection framework using Isolation Forest to flag irregular loan applications in real-time,
+reducing fraudulent approvals and strengthening fraud prevention and compliance monitoring processes by 30%
+_ Collaborated with data engineering teams to optimize Python, SQL, and Spark-based ETL workflows for structured, high-
+volume financial data pipelines, improving data preparation efficiency by 40% while ensuring operational reporting
+accuracy, data quality, and audit readiness
+_ Led model monitoring and performance visualization using Tableau dashboards, enabling real-time tracking of approval
+rates, default risks, and financial KPIs for C-suite leaders and operational managers
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Addressed data fragmentation issues impacting customer feature adoption and engagement insights for a CRM platform
+with 10K+ users, enabling data-driven decision-making
+_ Streamlined SQL-based ETL pipelines and developed Power BI dashboards with Python, improving data accuracy by 35%,
+reducing reporting turnaround by 60%, and boosting feature adoption by 40%
+_ Collaborated with product managers and engineers to align analytics with business goals, driving platform enhancements
+and targeted customer strategies
+PROJECTS
+AI Doctor assistant (Python, LLM, NLP) | Github
+_ Developed an AI-powered medical assistant using Python, Groq multimodal LLM, Whisper STT, Llama-3.2 Vision Model,
+ElevenLabs TTS, gTTS, and Gradio UI for real-time voice and image diagnostics
+_ Integrated APIs securely to enable seamless access to advanced speech recognition and vision models. This enhanced
+diagnostic accuracy, achieving 85%+ accuracy and reducing consultation time by 35%
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries
+_ Built an interactive Tableau dashboard visualizing salary ranges, job clusters, and in-demand skills for 1,000+ users to make
+informed career moves
+TECHNICAL SKILLS
+Programming & Scripting: Python, SQL, R, C++, JavaScript, Java, Bash, SAS, Linux
+Databases & Data Platforms: MySQL, Oracle, Snowflake, Cassandra, Amazon RDS
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing,
+statistical analysis, Tensorflow, Keras, Bayesian inference, NLP, LLMs, Hugging Face, Gen AI, RLFH, Agentic AI, Pre-tuning
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Git, GitLab, GitHub
+Data Visualization & ETL: Tableau, Power BI, Looker, Microsoft Excel, ELT (Extract Load Transform) pipelines",Data Scientist
+Applied Scientist,"Python, PyTorch, TensorFlow, Statistics, A/B Testing","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Deep Dive into LLMs, Hands-On Essentials: Data Warehousing Workshop, Generative AI for Everyone (DeepLearning.AI)
+WORK EXPERIENCE
+Data Scientist, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Resolved processing delays in a real-time loan approval system handling 1M+ applications annually by automating risk
+scoring models using Random Forest and XGBoost, reducing financial exposure from manual assessments and improving
+operational decision-making speed by 70%
+_ Designed and deployed scalable ML pipelines using Spark for high-volume loan data; implemented cross-validation, data
+mining, and time-based backtesting strategies to optimize model accuracy and ensure robust risk predictions
+_ Developed an AI-driven anomaly detection framework using Isolation Forest to flag irregular loan applications in real-time,
+reducing fraudulent approvals and strengthening fraud prevention and compliance monitoring processes by 30%
+_ Collaborated with data engineering teams to optimize Python, SQL, and Spark-based ETL workflows for structured, high-
+volume financial data pipelines, improving data preparation efficiency by 40% while ensuring operational reporting
+accuracy, data quality, and audit readiness
+_ Led model monitoring and performance visualization using Tableau dashboards, enabling real-time tracking of approval
+rates, default risks, and financial KPIs for C-suite leaders and operational managers
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Addressed data fragmentation issues impacting customer feature adoption and engagement insights for a CRM platform
+with 10K+ users, enabling data-driven decision-making
+_ Streamlined SQL-based ETL pipelines and developed Power BI dashboards with Python, improving data accuracy by 35%,
+reducing reporting turnaround by 60%, and boosting feature adoption by 40%
+_ Collaborated with product managers and engineers to align analytics with business goals, driving platform enhancements
+and targeted customer strategies
+PROJECTS
+AI Doctor assistant (Python, LLM, NLP) | Github
+_ Developed an AI-powered medical assistant using Python, Groq multimodal LLM, Whisper STT, Llama-3.2 Vision Model,
+ElevenLabs TTS, gTTS, and Gradio UI for real-time voice and image diagnostics
+_ Integrated APIs securely to enable seamless access to advanced speech recognition and vision models. This enhanced
+diagnostic accuracy, achieving 85%+ accuracy and reducing consultation time by 35%
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries
+_ Built an interactive Tableau dashboard visualizing salary ranges, job clusters, and in-demand skills for 1,000+ users to make
+informed career moves
+TECHNICAL SKILLS
+Programming & Scripting: Python, SQL, R, C++, JavaScript, Java, Bash, SAS, Linux
+Databases & Data Platforms: MySQL, Oracle, Snowflake, Cassandra, Amazon RDS
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing,
+statistical analysis, Tensorflow, Keras, Bayesian inference, NLP, LLMs, Hugging Face, Gen AI, RLFH, Agentic AI, Pre-tuning
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Git, GitLab, GitHub
+Data Visualization & ETL: Tableau, Power BI, Looker, Microsoft Excel, ELT (Extract Load Transform) pipelines",Data Scientist
+Research Scientist - AI/ML,"Python, Deep Learning, Research Methodologies, LLMs, PyTorch","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner, Deep
+Dive into LLMs, Hands-On Essentials: Data Warehousing Workshop, Generative AI for Everyone (DeepLearning.AI)
+WORK EXPERIENCE
+AI Automation Engineer | Integrately Jan 2025 Ð Present
+_ Designed and tested AI-powered automation workflows for prospective Integrately customers, demonstrating use cases like lead
+qualification, auto-email follow-ups, and meeting scheduling to support onboarding and engagement teams
+_ Created pre-built AI workflow templates within Integrately combining native app integrations (Gmail, Slack, Google Sheets) and
+OpenAI-powered text generation steps, improving first-week customer activation rates by 15%
+_ Curated a library of AI use cases relevant to marketing, operations, and support workflows, enabling the customer success team
+to recommend tailored automations during onboarding calls
+_ Supported the internal growth and partnerships team by evaluating trending no-code AI tools (Zapier, n8n, Relay.app) to
+benchmark IntegratelyÕs AI workflow capabilities
+Data Scientist, Financial Operations & Reporting, | Persistent Systems Aug 2022 Ð Jun 2023
+_ Resolved processing delays in real-time loan approval systems handling 1M+ applications annually by automating risk scoring
+models and reducing financial exposure from manual assessments
+_ Engineered scalable ML pipelines using PySpark, XGBoost, and Random Forest on high-volume, tabular loan data;
+incorporated cross-validation and time-based backtesting to optimize default prediction accuracy
+_ Led model development, hyperparameter tuning, and validation cycles, improving risk scoring accuracy by 18%, accelerating
+loan approval speed by 70%, and reducing default risk by 20%, directly supporting portfolio risk management
+_ Developed model monitoring and performance dashboards in Tableau, enabling real-time tracking of approval rates, default
+predictions, and financial KPIs for operational and C-suite leaders
+_ Partnered with data engineering to optimize Python, SQL, and ETL workflows, reducing data preparation time by 40% and
+saving 500+ analyst hours monthly, while ensuring audit-readiness and operational reporting compliance
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing core AWS resources like VPCs, IAM roles, and Kubernetes
+clusters to ensure secure and consistent deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and system
+health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling, cutting
+chatbot response time by 30% and compute costs by 20%
+PROJECTS
+AI Workflow Orchestrator for Meetings, Notes, and Email Automation
+_ Built an AI-powered ops workflow using n8n, GPT-4, Whisper, and Postgres to handle scheduling, note-taking, file management,
+and voice transcription autonomously
+_ Automated meeting management, task tracking, and email drafting, eliminating operational chaos and acting as a 24/7 virtual
+Chief of Staff for remote teams and founders
+AI Doctor assistant (Python, LLM, NLP) | Github
+_ Developed an AI-powered medical assistant using Python, Groq multimodal LLM, Whisper STT, Llama-3.2 Vision Model,
+ElevenLabs TTS, gTTS, and Gradio UI for real-time voice and image diagnostics
+_ Integrated APIs securely to enable seamless access to advanced speech recognition and vision models. This enhanced diagnostic
+accuracy, achieving 85%+ accuracy and reducing consultation time by 35%
+TECHNICAL SKILLS
+Programming & Scripting: Python, SQL, R, C++, JavaScript, Java, Bash, SAS, Linux
+Databases & Data Platforms: MySQL, Oracle, Snowflake, Cassandra, Amazon RDS
+AI & Automation: GPT-4, Groq, LLaMA-3.2, OpenAI API, Hugging Face, Prompt Engineering, Prompt Chaining, LLM Evaluation,
+Machine Learning: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, Sentiment Analysis, Topic
+Modeling, A/B Testing, Bayesian inference, Tensorflow, Keras
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Git, GitLab, GitHub
+Data Visualization & ETL: Tableau, Power BI, Looker, Microsoft Excel, ELT (Extract Load Transform) pipelines",Data Scientist
+Quantitative Researcher,"Python, Statistics, Econometrics, Data Modeling, Financial Markets","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | Tableau | New York, NY, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Hands-On Essentials: Data Warehousing Workshop (Snowflake), Microsoft Certified: Data Analyst Associate (PL-300 - Power BI)
+WORK EXPERIENCE
+Data Analyst, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Optimized fragmented data pipelines and complex integrations to enhance financial reporting accuracy and risk assessment
+efficiency for a loan management platform processing 1M+ applications annually, supporting regulatory compliance
+_ Developed, tuned, and validated predictive risk models using Random Forest and XGBoost, leveraging Python, SAS;
+Streamlined ETL workflows via optimized SQL joins and automated quality checks, improving data reliability
+_ Accelerated operational reporting cycles with interactive Tableau and Excel VBA dashboards utilizing advanced DAX,
+boosting loan approval speed by 65%, reducing risk exposure by 20%, and saving 500+ analyst hours monthly
+_ Delivered actionable, real-time KPIs and executive dashboards that enabled C-suite leadership to make data-informed
+strategic decisions for portfolio management, risk mitigation, and financial forecasting
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Identified and resolved critical data fragmentation and reporting gaps affecting feature adoption and customer engagement
+tracking and campaign performance analysis for a CRM platform with 10K+ active business users
+_ Automated and optimized SQL-based ETL pipelines and integrated third-party campaign performance data, improving
+reporting accuracy by 35% and reducing turnaround time by 60%
+_ Developed dynamic, interactive Power BI dashboards with advanced Python (Pandas, NumPy) data transformations,
+enabling actionable, real-time insights into feature usage trends, customer churn risk, and upsell opportunities
+_ Delivered strategic, data-driven recommendations that boosted feature adoption by 40% and directly shaped quarterly
+product optimization roadmaps and customer success initiatives
+PROJECTS
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries; performed sentiment analysis on
+job descriptions to gauge employer tone and positioning in competitive markets
+_ Built an interactive Tableau dashboard integrating cleaned, feature-engineered data to visualize salary ranges, job clusters,
+and in-demand skills, enabling 1,000+ users to make informed career moves
+Streaming Media Analysis (Azure, Snowflake, dbt, PowerBI) | Github
+_ Engineered a scalable ELT pipeline using Azure Blob Storage, Snowflake, and dbt, transforming 10M+ Netflix records into a
+high-performance analytics warehouse with dimensional star schema and Operational Business Transactions (OBT) modeling
+_ Developed Power BI dashboards powered by advanced DAX and incremental Snowflake models, uncovering trends in
+audience engagement, churn risk, and content performance to drive data-informed business strategies
+TECHNICAL SKILLS
+Programming & Querying: Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL, HTML, CSS, JavaScript, Java, C++
+Databases & Data Platforms: Snowflake, AWS Redshift, MS SQL Server, Oracle PL/SQL, DBeaver, Azure Data Studio
+Cloud & Analytics Tools: AWS (S3, EC2, QuickSight, Lambda), Google Analytics, Databricks, Apache Airflow, Apache Spark
+ETL & BI Tools: Tableau, Power BI, QlikView, Alteryx, Talend, IBM DataStage, Looker, MS Excel (Pivot Tables, VLOOKUP)
+Version Control & Project Management: Git, GitHub, JIRA, ServiceNow, SharePoint
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing",Data Analyst
+Data Analyst,"Python, SQL, Tableau, Excel, Power BI, Data Cleaning, Statistics","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | Tableau | New York, NY, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Hands-On Essentials: Data Warehousing Workshop (Snowflake), Microsoft Certified: Data Analyst Associate (PL-300 - Power BI)
+WORK EXPERIENCE
+Data Analyst, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Optimized fragmented data pipelines and complex integrations to enhance financial reporting accuracy and risk assessment
+efficiency for a loan management platform processing 1M+ applications annually, supporting regulatory compliance
+_ Developed, tuned, and validated predictive risk models using Random Forest and XGBoost, leveraging Python, SAS;
+Streamlined ETL workflows via optimized SQL joins and automated quality checks, improving data reliability
+_ Accelerated operational reporting cycles with interactive Tableau and Excel VBA dashboards utilizing advanced DAX,
+boosting loan approval speed by 65%, reducing risk exposure by 20%, and saving 500+ analyst hours monthly
+_ Delivered actionable, real-time KPIs and executive dashboards that enabled C-suite leadership to make data-informed
+strategic decisions for portfolio management, risk mitigation, and financial forecasting
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Identified and resolved critical data fragmentation and reporting gaps affecting feature adoption and customer engagement
+tracking and campaign performance analysis for a CRM platform with 10K+ active business users
+_ Automated and optimized SQL-based ETL pipelines and integrated third-party campaign performance data, improving
+reporting accuracy by 35% and reducing turnaround time by 60%
+_ Developed dynamic, interactive Power BI dashboards with advanced Python (Pandas, NumPy) data transformations,
+enabling actionable, real-time insights into feature usage trends, customer churn risk, and upsell opportunities
+_ Delivered strategic, data-driven recommendations that boosted feature adoption by 40% and directly shaped quarterly
+product optimization roadmaps and customer success initiatives
+PROJECTS
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries; performed sentiment analysis on
+job descriptions to gauge employer tone and positioning in competitive markets
+_ Built an interactive Tableau dashboard integrating cleaned, feature-engineered data to visualize salary ranges, job clusters,
+and in-demand skills, enabling 1,000+ users to make informed career moves
+Streaming Media Analysis (Azure, Snowflake, dbt, PowerBI) | Github
+_ Engineered a scalable ELT pipeline using Azure Blob Storage, Snowflake, and dbt, transforming 10M+ Netflix records into a
+high-performance analytics warehouse with dimensional star schema and Operational Business Transactions (OBT) modeling
+_ Developed Power BI dashboards powered by advanced DAX and incremental Snowflake models, uncovering trends in
+audience engagement, churn risk, and content performance to drive data-informed business strategies
+TECHNICAL SKILLS
+Programming & Querying: Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL, HTML, CSS, JavaScript, Java, C++
+Databases & Data Platforms: Snowflake, AWS Redshift, MS SQL Server, Oracle PL/SQL, DBeaver, Azure Data Studio
+Cloud & Analytics Tools: AWS (S3, EC2, QuickSight, Lambda), Google Analytics, Databricks, Apache Airflow, Apache Spark
+ETL & BI Tools: Tableau, Power BI, QlikView, Alteryx, Talend, IBM DataStage, Looker, MS Excel (Pivot Tables, VLOOKUP)
+Version Control & Project Management: Git, GitHub, JIRA, ServiceNow, SharePoint
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing",Data Analyst
+Business Data Analyst,"SQL, Excel, Power BI, Requirements Gathering, Reporting","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | Tableau | New York, NY, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Hands-On Essentials: Data Warehousing Workshop (Snowflake), Microsoft Certified: Data Analyst Associate (PL-300 - Power BI)
+WORK EXPERIENCE
+Data Analyst, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Optimized fragmented data pipelines and complex integrations to enhance financial reporting accuracy and risk assessment
+efficiency for a loan management platform processing 1M+ applications annually, supporting regulatory compliance
+_ Developed, tuned, and validated predictive risk models using Random Forest and XGBoost, leveraging Python, SAS;
+Streamlined ETL workflows via optimized SQL joins and automated quality checks, improving data reliability
+_ Accelerated operational reporting cycles with interactive Tableau and Excel VBA dashboards utilizing advanced DAX,
+boosting loan approval speed by 65%, reducing risk exposure by 20%, and saving 500+ analyst hours monthly
+_ Delivered actionable, real-time KPIs and executive dashboards that enabled C-suite leadership to make data-informed
+strategic decisions for portfolio management, risk mitigation, and financial forecasting
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Identified and resolved critical data fragmentation and reporting gaps affecting feature adoption and customer engagement
+tracking and campaign performance analysis for a CRM platform with 10K+ active business users
+_ Automated and optimized SQL-based ETL pipelines and integrated third-party campaign performance data, improving
+reporting accuracy by 35% and reducing turnaround time by 60%
+_ Developed dynamic, interactive Power BI dashboards with advanced Python (Pandas, NumPy) data transformations,
+enabling actionable, real-time insights into feature usage trends, customer churn risk, and upsell opportunities
+_ Delivered strategic, data-driven recommendations that boosted feature adoption by 40% and directly shaped quarterly
+product optimization roadmaps and customer success initiatives
+PROJECTS
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries; performed sentiment analysis on
+job descriptions to gauge employer tone and positioning in competitive markets
+_ Built an interactive Tableau dashboard integrating cleaned, feature-engineered data to visualize salary ranges, job clusters,
+and in-demand skills, enabling 1,000+ users to make informed career moves
+Streaming Media Analysis (Azure, Snowflake, dbt, PowerBI) | Github
+_ Engineered a scalable ELT pipeline using Azure Blob Storage, Snowflake, and dbt, transforming 10M+ Netflix records into a
+high-performance analytics warehouse with dimensional star schema and Operational Business Transactions (OBT) modeling
+_ Developed Power BI dashboards powered by advanced DAX and incremental Snowflake models, uncovering trends in
+audience engagement, churn risk, and content performance to drive data-informed business strategies
+TECHNICAL SKILLS
+Programming & Querying: Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL, HTML, CSS, JavaScript, Java, C++
+Databases & Data Platforms: Snowflake, AWS Redshift, MS SQL Server, Oracle PL/SQL, DBeaver, Azure Data Studio
+Cloud & Analytics Tools: AWS (S3, EC2, QuickSight, Lambda), Google Analytics, Databricks, Apache Airflow, Apache Spark
+ETL & BI Tools: Tableau, Power BI, QlikView, Alteryx, Talend, IBM DataStage, Looker, MS Excel (Pivot Tables, VLOOKUP)
+Version Control & Project Management: Git, GitHub, JIRA, ServiceNow, SharePoint
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing",Data Analyst
+Financial Analyst,"Excel, SQL, Financial Modeling, Forecasting, Power BI","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | Tableau | New York, NY, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Hands-On Essentials: Data Warehousing Workshop (Snowflake), Microsoft Certified: Data Analyst Associate (PL-300 - Power BI)
+WORK EXPERIENCE
+Data Analyst, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Optimized fragmented data pipelines and complex integrations to enhance financial reporting accuracy and risk assessment
+efficiency for a loan management platform processing 1M+ applications annually, supporting regulatory compliance
+_ Developed, tuned, and validated predictive risk models using Random Forest and XGBoost, leveraging Python, SAS;
+Streamlined ETL workflows via optimized SQL joins and automated quality checks, improving data reliability
+_ Accelerated operational reporting cycles with interactive Tableau and Excel VBA dashboards utilizing advanced DAX,
+boosting loan approval speed by 65%, reducing risk exposure by 20%, and saving 500+ analyst hours monthly
+_ Delivered actionable, real-time KPIs and executive dashboards that enabled C-suite leadership to make data-informed
+strategic decisions for portfolio management, risk mitigation, and financial forecasting
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Identified and resolved critical data fragmentation and reporting gaps affecting feature adoption and customer engagement
+tracking and campaign performance analysis for a CRM platform with 10K+ active business users
+_ Automated and optimized SQL-based ETL pipelines and integrated third-party campaign performance data, improving
+reporting accuracy by 35% and reducing turnaround time by 60%
+_ Developed dynamic, interactive Power BI dashboards with advanced Python (Pandas, NumPy) data transformations,
+enabling actionable, real-time insights into feature usage trends, customer churn risk, and upsell opportunities
+_ Delivered strategic, data-driven recommendations that boosted feature adoption by 40% and directly shaped quarterly
+product optimization roadmaps and customer success initiatives
+PROJECTS
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries; performed sentiment analysis on
+job descriptions to gauge employer tone and positioning in competitive markets
+_ Built an interactive Tableau dashboard integrating cleaned, feature-engineered data to visualize salary ranges, job clusters,
+and in-demand skills, enabling 1,000+ users to make informed career moves
+Streaming Media Analysis (Azure, Snowflake, dbt, PowerBI) | Github
+_ Engineered a scalable ELT pipeline using Azure Blob Storage, Snowflake, and dbt, transforming 10M+ Netflix records into a
+high-performance analytics warehouse with dimensional star schema and Operational Business Transactions (OBT) modeling
+_ Developed Power BI dashboards powered by advanced DAX and incremental Snowflake models, uncovering trends in
+audience engagement, churn risk, and content performance to drive data-informed business strategies
+TECHNICAL SKILLS
+Programming & Querying: Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL, HTML, CSS, JavaScript, Java, C++
+Databases & Data Platforms: Snowflake, AWS Redshift, MS SQL Server, Oracle PL/SQL, DBeaver, Azure Data Studio
+Cloud & Analytics Tools: AWS (S3, EC2, QuickSight, Lambda), Google Analytics, Databricks, Apache Airflow, Apache Spark
+ETL & BI Tools: Tableau, Power BI, QlikView, Alteryx, Talend, IBM DataStage, Looker, MS Excel (Pivot Tables, VLOOKUP)
+Version Control & Project Management: Git, GitHub, JIRA, ServiceNow, SharePoint
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing",Data Analyst
+Healthcare Data Analyst,"SQL, Tableau, HIPAA Compliance, EHR, R","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS
+NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks)) | AWS Certified Cloud Practitioner |
+Hands-On Essentials: Data Warehousing Workshop (Snowflake) | Microsoft Certified: Data Analyst Associate (PL-300 - Power BI)
+WORK EXPERIENCE
+Data Analyst, Healthcare Data Operations & Reporting| Persistent Systems| Mumbai, India Aug 2022 Ð Jun 2023
+_ Resolved delays in clinical decision-making workflows by integrating fragmented EHR, Claims, and SDOH data, reducing data
+retrieval time by 70% and improving access to real-time patient insights
+_ Developed a disease risk prediction model (Random Forest) incorporating clinical and social determinants, achieving 85%
+accuracy, and supporting population health management strategies, reducing at-risk cases by 20%
+_ Conducted comprehensive HIPAA-aligned data validation and QA checks across multiple healthcare data pipelines, enhancing data
+integrity, patient safety, and compliance readiness for regulatory audits
+_ Designed dynamic, interactive Tableau dashboards with SQL-backed risk scores, utilization metrics, and population health
+KPIs, eliminating 500+ hours of manual reporting and improving real-time clinical outcome tracking
+_ Collaborated cross-functionally with care management, clinical informatics, and operational leadership teams to translate
+predictive analytics into actionable, patient-centered care interventions and operational workflows
+Cloud Engineer, Healthcare Data Operations & Reporting| Persistent Systems| Mumbai, India July 2021 Ð Aug 2022
+_ Resolved fragmented healthcare systems and sluggish APIs delaying access to patient records, clinical trial data, and claims,
+improving data availability for care teams and researchers while supporting interoperability and compliance
+_ Designed and deployed scalable, serverless APIs using AWS API Gateway, Lambda, and gRPC, integrating with AWS RDS to
+unify EHR, claims, and operational data enabling real-time insights for clinical decision support and value-based care
+_ Atomated CI/CD pipelines leveraging Jenkins, GitLab CI/CD, and AWS CodePipeline, reducing release errors, enhancing
+deployment consistency, and accelerating the rollout of healthcare data services aligned with HIPAA-compliant workflows
+_ Improved API performance by 40%, reduced data retrieval latency by 20%, and cut deployment cycles by 25%, delivering
+faster population health and claims analytics via AWS QuickSight dashboards for leadership
+Data Analyst | CompanyHub | Mumbai, India July 2019 Ð July 2021
+_ Identified and resolved critical data fragmentation and reporting gaps affecting feature adoption and customer engagement
+tracking and campaign performance analysis for a CRM platform with 10K+ active business users
+_ Automated and optimized SQL-based ETL pipelines and integrated third-party campaign performance data, improving
+reporting accuracy by 35% and reducing turnaround time by 60%
+_ Developed dynamic, interactive Power BI dashboards with advanced Python (Pandas, NumPy) data transformations, enabling
+actionable, real-time insights into feature usage trends, customer churn risk, and upsell opportunities
+_ Delivered strategic, data-driven recommendations that boosted feature adoption by 40% and directly shaped quarterly
+product optimization roadmaps and customer success initiatives
+PROJECTS
+AI Doctor assistant (Python, LLM, NLP) | Github
+_ Developed an AI-powered medical assistant using Python, Groq multimodal LLM, Whisper STT, Llama-3.2 Vision Model,
+ElevenLabs TTS, gTTS, and Gradio UI for real-time voice and image diagnostics
+_ Collaborated with healthcare professionals to tailor AI responses for clinical relevance and user-friendly interactions, achieving
+85%+ diagnostic accuracy and reducing consultation time by 35%, which significantly improved patient engagement through
+lifelike conversational AI
+Streaming Media Analysis (Azure, Snowflake, dbt, PowerBI) | Github
+_ Engineered a scalable ELT pipeline using Azure Blob Storage, Snowflake, and dbt, transforming 10M+ Netflix records into a
+high-performance analytics warehouse with dimensional star schema and Operational Business Transactions (OBT) modeling
+_ Developed Power BI dashboards powered by advanced DAX and incremental Snowflake models, uncovering trends in
+audience engagement, churn risk, and content performance to drive data-informed business strategies
+TECHNICAL SKILLS
+Programming & Querying: Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL, HTML, CSS, JavaScript, Java, C++
+Databases & Data Platforms: Snowflake, AWS Redshift, MS SQL Server, Oracle PL/SQL, DBeaver, Azure Data Studio
+Cloud & Analytics Tools: AWS (S3, EC2, QuickSight, Lambda), Google Analytics, Databricks, Apache Airflow, Apache Spark
+ETL & BI Tools: Tableau, Power BI, QlikView, Alteryx, Talend, IBM DataStage, Looker, MS Excel (Pivot Tables, VLOOKUP)
+Version Control & Project Management: Git, GitHub, JIRA, ServiceNow, SharePoint
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing,
+statistical analysis, Tensorflow, Keras, Bayesian inference, NLP, LLMs, Hugging Face, Gen AI, RLFH, Agentic AI, Pre-tuning",Data Analyst
+Product Analyst,"SQL, A/B Testing, Python, Tableau, Product KPIs","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | Tableau | New York, NY, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Hands-On Essentials: Data Warehousing Workshop (Snowflake), Microsoft Certified: Data Analyst Associate (PL-300 - Power BI)
+WORK EXPERIENCE
+Data Analyst, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Optimized fragmented data pipelines and complex integrations to enhance financial reporting accuracy and risk assessment
+efficiency for a loan management platform processing 1M+ applications annually, supporting regulatory compliance
+_ Developed, tuned, and validated predictive risk models using Random Forest and XGBoost, leveraging Python, SAS;
+Streamlined ETL workflows via optimized SQL joins and automated quality checks, improving data reliability
+_ Accelerated operational reporting cycles with interactive Tableau and Excel VBA dashboards utilizing advanced DAX,
+boosting loan approval speed by 65%, reducing risk exposure by 20%, and saving 500+ analyst hours monthly
+_ Delivered actionable, real-time KPIs and executive dashboards that enabled C-suite leadership to make data-informed
+strategic decisions for portfolio management, risk mitigation, and financial forecasting
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Identified and resolved critical data fragmentation and reporting gaps affecting feature adoption and customer engagement
+tracking and campaign performance analysis for a CRM platform with 10K+ active business users
+_ Automated and optimized SQL-based ETL pipelines and integrated third-party campaign performance data, improving
+reporting accuracy by 35% and reducing turnaround time by 60%
+_ Developed dynamic, interactive Power BI dashboards with advanced Python (Pandas, NumPy) data transformations,
+enabling actionable, real-time insights into feature usage trends, customer churn risk, and upsell opportunities
+_ Delivered strategic, data-driven recommendations that boosted feature adoption by 40% and directly shaped quarterly
+product optimization roadmaps and customer success initiatives
+PROJECTS
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries; performed sentiment analysis on
+job descriptions to gauge employer tone and positioning in competitive markets
+_ Built an interactive Tableau dashboard integrating cleaned, feature-engineered data to visualize salary ranges, job clusters,
+and in-demand skills, enabling 1,000+ users to make informed career moves
+Streaming Media Analysis (Azure, Snowflake, dbt, PowerBI) | Github
+_ Engineered a scalable ELT pipeline using Azure Blob Storage, Snowflake, and dbt, transforming 10M+ Netflix records into a
+high-performance analytics warehouse with dimensional star schema and Operational Business Transactions (OBT) modeling
+_ Developed Power BI dashboards powered by advanced DAX and incremental Snowflake models, uncovering trends in
+audience engagement, churn risk, and content performance to drive data-informed business strategies
+TECHNICAL SKILLS
+Programming & Querying: Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL, HTML, CSS, JavaScript, Java, C++
+Databases & Data Platforms: Snowflake, AWS Redshift, MS SQL Server, Oracle PL/SQL, DBeaver, Azure Data Studio
+Cloud & Analytics Tools: AWS (S3, EC2, QuickSight, Lambda), Google Analytics, Databricks, Apache Airflow, Apache Spark
+ETL & BI Tools: Tableau, Power BI, QlikView, Alteryx, Talend, IBM DataStage, Looker, MS Excel (Pivot Tables, VLOOKUP)
+Version Control & Project Management: Git, GitHub, JIRA, ServiceNow, SharePoint
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing",Data Analyst
+Marketing Analyst,"Google Analytics, SQL, A/B Testing, Python, Excel","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | Tableau | New York, NY, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Hands-On Essentials: Data Warehousing Workshop (Snowflake), Microsoft Certified: Data Analyst Associate (PL-300 - Power BI)
+WORK EXPERIENCE
+Data Analyst, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Optimized fragmented data pipelines and complex integrations to enhance financial reporting accuracy and risk assessment
+efficiency for a loan management platform processing 1M+ applications annually, supporting regulatory compliance
+_ Developed, tuned, and validated predictive risk models using Random Forest and XGBoost, leveraging Python, SAS;
+Streamlined ETL workflows via optimized SQL joins and automated quality checks, improving data reliability
+_ Accelerated operational reporting cycles with interactive Tableau and Excel VBA dashboards utilizing advanced DAX,
+boosting loan approval speed by 65%, reducing risk exposure by 20%, and saving 500+ analyst hours monthly
+_ Delivered actionable, real-time KPIs and executive dashboards that enabled C-suite leadership to make data-informed
+strategic decisions for portfolio management, risk mitigation, and financial forecasting
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Identified and resolved critical data fragmentation and reporting gaps affecting feature adoption and customer engagement
+tracking and campaign performance analysis for a CRM platform with 10K+ active business users
+_ Automated and optimized SQL-based ETL pipelines and integrated third-party campaign performance data, improving
+reporting accuracy by 35% and reducing turnaround time by 60%
+_ Developed dynamic, interactive Power BI dashboards with advanced Python (Pandas, NumPy) data transformations,
+enabling actionable, real-time insights into feature usage trends, customer churn risk, and upsell opportunities
+_ Delivered strategic, data-driven recommendations that boosted feature adoption by 40% and directly shaped quarterly
+product optimization roadmaps and customer success initiatives
+PROJECTS
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries; performed sentiment analysis on
+job descriptions to gauge employer tone and positioning in competitive markets
+_ Built an interactive Tableau dashboard integrating cleaned, feature-engineered data to visualize salary ranges, job clusters,
+and in-demand skills, enabling 1,000+ users to make informed career moves
+Streaming Media Analysis (Azure, Snowflake, dbt, PowerBI) | Github
+_ Engineered a scalable ELT pipeline using Azure Blob Storage, Snowflake, and dbt, transforming 10M+ Netflix records into a
+high-performance analytics warehouse with dimensional star schema and Operational Business Transactions (OBT) modeling
+_ Developed Power BI dashboards powered by advanced DAX and incremental Snowflake models, uncovering trends in
+audience engagement, churn risk, and content performance to drive data-informed business strategies
+TECHNICAL SKILLS
+Programming & Querying: Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL, HTML, CSS, JavaScript, Java, C++
+Databases & Data Platforms: Snowflake, AWS Redshift, MS SQL Server, Oracle PL/SQL, DBeaver, Azure Data Studio
+Cloud & Analytics Tools: AWS (S3, EC2, QuickSight, Lambda), Google Analytics, Databricks, Apache Airflow, Apache Spark
+ETL & BI Tools: Tableau, Power BI, QlikView, Alteryx, Talend, IBM DataStage, Looker, MS Excel (Pivot Tables, VLOOKUP)
+Version Control & Project Management: Git, GitHub, JIRA, ServiceNow, SharePoint
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing",Data Analyst
+Operations Analyst,"SQL, Excel, Reporting, Business Process Analysis","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | Tableau | New York, NY, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Hands-On Essentials: Data Warehousing Workshop (Snowflake), Microsoft Certified: Data Analyst Associate (PL-300 - Power BI)
+WORK EXPERIENCE
+Data Analyst, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Optimized fragmented data pipelines and complex integrations to enhance financial reporting accuracy and risk assessment
+efficiency for a loan management platform processing 1M+ applications annually, supporting regulatory compliance
+_ Developed, tuned, and validated predictive risk models using Random Forest and XGBoost, leveraging Python, SAS;
+Streamlined ETL workflows via optimized SQL joins and automated quality checks, improving data reliability
+_ Accelerated operational reporting cycles with interactive Tableau and Excel VBA dashboards utilizing advanced DAX,
+boosting loan approval speed by 65%, reducing risk exposure by 20%, and saving 500+ analyst hours monthly
+_ Delivered actionable, real-time KPIs and executive dashboards that enabled C-suite leadership to make data-informed
+strategic decisions for portfolio management, risk mitigation, and financial forecasting
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Identified and resolved critical data fragmentation and reporting gaps affecting feature adoption and customer engagement
+tracking and campaign performance analysis for a CRM platform with 10K+ active business users
+_ Automated and optimized SQL-based ETL pipelines and integrated third-party campaign performance data, improving
+reporting accuracy by 35% and reducing turnaround time by 60%
+_ Developed dynamic, interactive Power BI dashboards with advanced Python (Pandas, NumPy) data transformations,
+enabling actionable, real-time insights into feature usage trends, customer churn risk, and upsell opportunities
+_ Delivered strategic, data-driven recommendations that boosted feature adoption by 40% and directly shaped quarterly
+product optimization roadmaps and customer success initiatives
+PROJECTS
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries; performed sentiment analysis on
+job descriptions to gauge employer tone and positioning in competitive markets
+_ Built an interactive Tableau dashboard integrating cleaned, feature-engineered data to visualize salary ranges, job clusters,
+and in-demand skills, enabling 1,000+ users to make informed career moves
+Streaming Media Analysis (Azure, Snowflake, dbt, PowerBI) | Github
+_ Engineered a scalable ELT pipeline using Azure Blob Storage, Snowflake, and dbt, transforming 10M+ Netflix records into a
+high-performance analytics warehouse with dimensional star schema and Operational Business Transactions (OBT) modeling
+_ Developed Power BI dashboards powered by advanced DAX and incremental Snowflake models, uncovering trends in
+audience engagement, churn risk, and content performance to drive data-informed business strategies
+TECHNICAL SKILLS
+Programming & Querying: Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL, HTML, CSS, JavaScript, Java, C++
+Databases & Data Platforms: Snowflake, AWS Redshift, MS SQL Server, Oracle PL/SQL, DBeaver, Azure Data Studio
+Cloud & Analytics Tools: AWS (S3, EC2, QuickSight, Lambda), Google Analytics, Databricks, Apache Airflow, Apache Spark
+ETL & BI Tools: Tableau, Power BI, QlikView, Alteryx, Talend, IBM DataStage, Looker, MS Excel (Pivot Tables, VLOOKUP)
+Version Control & Project Management: Git, GitHub, JIRA, ServiceNow, SharePoint
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing",Data Analyst
+Insights Analyst,"SQL, R, Tableau, Data Visualization, Consumer Behavior","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | Tableau | New York, NY, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner,
+Hands-On Essentials: Data Warehousing Workshop (Snowflake), Microsoft Certified: Data Analyst Associate (PL-300 - Power BI)
+WORK EXPERIENCE
+Data Analyst, Financial Operations & Reporting | Persistent Systems Aug 2022 Ð Jun 2023
+_ Optimized fragmented data pipelines and complex integrations to enhance financial reporting accuracy and risk assessment
+efficiency for a loan management platform processing 1M+ applications annually, supporting regulatory compliance
+_ Developed, tuned, and validated predictive risk models using Random Forest and XGBoost, leveraging Python, SAS;
+Streamlined ETL workflows via optimized SQL joins and automated quality checks, improving data reliability
+_ Accelerated operational reporting cycles with interactive Tableau and Excel VBA dashboards utilizing advanced DAX,
+boosting loan approval speed by 65%, reducing risk exposure by 20%, and saving 500+ analyst hours monthly
+_ Delivered actionable, real-time KPIs and executive dashboards that enabled C-suite leadership to make data-informed
+strategic decisions for portfolio management, risk mitigation, and financial forecasting
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and
+system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Data Analyst | CompanyHub July 2019 Ð July 2021
+_ Identified and resolved critical data fragmentation and reporting gaps affecting feature adoption and customer engagement
+tracking and campaign performance analysis for a CRM platform with 10K+ active business users
+_ Automated and optimized SQL-based ETL pipelines and integrated third-party campaign performance data, improving
+reporting accuracy by 35% and reducing turnaround time by 60%
+_ Developed dynamic, interactive Power BI dashboards with advanced Python (Pandas, NumPy) data transformations,
+enabling actionable, real-time insights into feature usage trends, customer churn risk, and upsell opportunities
+_ Delivered strategic, data-driven recommendations that boosted feature adoption by 40% and directly shaped quarterly
+product optimization roadmaps and customer success initiatives
+PROJECTS
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries; performed sentiment analysis on
+job descriptions to gauge employer tone and positioning in competitive markets
+_ Built an interactive Tableau dashboard integrating cleaned, feature-engineered data to visualize salary ranges, job clusters,
+and in-demand skills, enabling 1,000+ users to make informed career moves
+Streaming Media Analysis (Azure, Snowflake, dbt, PowerBI) | Github
+_ Engineered a scalable ELT pipeline using Azure Blob Storage, Snowflake, and dbt, transforming 10M+ Netflix records into a
+high-performance analytics warehouse with dimensional star schema and Operational Business Transactions (OBT) modeling
+_ Developed Power BI dashboards powered by advanced DAX and incremental Snowflake models, uncovering trends in
+audience engagement, churn risk, and content performance to drive data-informed business strategies
+TECHNICAL SKILLS
+Programming & Querying: Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL, HTML, CSS, JavaScript, Java, C++
+Databases & Data Platforms: Snowflake, AWS Redshift, MS SQL Server, Oracle PL/SQL, DBeaver, Azure Data Studio
+Cloud & Analytics Tools: AWS (S3, EC2, QuickSight, Lambda), Google Analytics, Databricks, Apache Airflow, Apache Spark
+ETL & BI Tools: Tableau, Power BI, QlikView, Alteryx, Talend, IBM DataStage, Looker, MS Excel (Pivot Tables, VLOOKUP)
+Version Control & Project Management: Git, GitHub, JIRA, ServiceNow, SharePoint
+Machine Learning & AI: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, A/B Testing",Data Analyst
+Software Engineer,"Java, Python, C++, Git, OOP, REST APIs","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Software Engineer, Financial Operations & Reporting | Persistent Systems Jan 2022 Ð Jun 2023
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Software Engineer, Financial Operations & Reporting | Persistent Systems Jul 2021 Ð Jan 2022
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent report
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+PROJECTS
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using Python, GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+Netflix clone (React JS)
+_ Developed a Netflix Clone using React.js, Firebase, and TMDB API, implementing user authentication, dynamic movie
+retrieval, and responsive UI for an interactive streaming experience
+_ Integrated REST APIs using Axios to fetch and display real-time movie data, utilizing React Router for seamless
+navigation and Bootstrap for enhanced UI/UX
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",Software Engineer
+Full Stack Developer,"JavaScript, React, Node.js, SQL, Python, HTML/CSS","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Software Engineer, Financial Operations & Reporting | Persistent Systems Jan 2022 Ð Jun 2023
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Software Engineer, Financial Operations & Reporting | Persistent Systems Jul 2021 Ð Jan 2022
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent report
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+PROJECTS
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using Python, GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+Netflix clone (React JS)
+_ Developed a Netflix Clone using React.js, Firebase, and TMDB API, implementing user authentication, dynamic movie
+retrieval, and responsive UI for an interactive streaming experience
+_ Integrated REST APIs using Axios to fetch and display real-time movie data, utilizing React Router for seamless
+navigation and Bootstrap for enhanced UI/UX
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",Software Engineer
+Backend Developer,"Java, Python, Node.js, SQL, Microservices","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Software Engineer, Financial Operations & Reporting | Persistent Systems Jan 2022 Ð Jun 2023
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Software Engineer, Financial Operations & Reporting | Persistent Systems Jul 2021 Ð Jan 2022
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent report
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+PROJECTS
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using Python, GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+Netflix clone (React JS)
+_ Developed a Netflix Clone using React.js, Firebase, and TMDB API, implementing user authentication, dynamic movie
+retrieval, and responsive UI for an interactive streaming experience
+_ Integrated REST APIs using Axios to fetch and display real-time movie data, utilizing React Router for seamless
+navigation and Bootstrap for enhanced UI/UX
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",Software Engineer
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Software Engineer, Financial Operations & Reporting | Persistent Systems Jan 2022 Ð Jun 2023
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Software Engineer, Financial Operations & Reporting | Persistent Systems Jul 2021 Ð Jan 2022
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent report
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+PROJECTS
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using Python, GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+Netflix clone (React JS)
+_ Developed a Netflix Clone using React.js, Firebase, and TMDB API, implementing user authentication, dynamic movie
+retrieval, and responsive UI for an interactive streaming experience
+_ Integrated REST APIs using Axios to fetch and display real-time movie data, utilizing React Router for seamless
+navigation and Bootstrap for enhanced UI/UX
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",Software Engineer
+Quality Engineer,"Selenium, Java, TestNG, JIRA, Manual Testing","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Quality Lead Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Jan 2022 Ð Jun 2023
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent reports
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Jan 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+PROJECTS
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+_ Evaluated AI/ML responses using BERT for toxicity, TextBlob for fluency, and cosine similarity for sentiment alignment; also applied
+prompt tuning and synthetic data generation techniques to enhance test coverage and model robustness
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Automation & Testing Tools: Selenium, Serenity, TestNG, Cucumber, Postman, SoapUI
+Testing Methodologies: Regression Testing, Unit Testing, API Testing, Agile, Scrum, SDLC, CI/CD (Jenkins, GitLab CI/CD)
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",QA Engineer
+SDET,"Java, Selenium, Cucumber, REST Assured, CI/CD, Test Automation","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Quality Lead Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Jan 2022 Ð Jun 2023
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent reports
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Jan 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+PROJECTS
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+_ Evaluated AI/ML responses using BERT for toxicity, TextBlob for fluency, and cosine similarity for sentiment alignment; also applied
+prompt tuning and synthetic data generation techniques to enhance test coverage and model robustness
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Automation & Testing Tools: Selenium, Serenity, TestNG, Cucumber, Postman, SoapUI
+Testing Methodologies: Regression Testing, Unit Testing, API Testing, Agile, Scrum, SDLC, CI/CD (Jenkins, GitLab CI/CD)
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",QA Engineer
+QA Engineer,"Test Cases, JIRA, Manual Testing, Postman, Automation Tools","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Quality Lead Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Jan 2022 Ð Jun 2023
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent reports
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Jan 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+PROJECTS
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+_ Evaluated AI/ML responses using BERT for toxicity, TextBlob for fluency, and cosine similarity for sentiment alignment; also applied
+prompt tuning and synthetic data generation techniques to enhance test coverage and model robustness
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Automation & Testing Tools: Selenium, Serenity, TestNG, Cucumber, Postman, SoapUI
+Testing Methodologies: Regression Testing, Unit Testing, API Testing, Agile, Scrum, SDLC, CI/CD (Jenkins, GitLab CI/CD)
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",QA Engineer
+Test Automation Engineer,"Selenium, Java, Python, TestNG, JUnit","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Quality Lead Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Jan 2022 Ð Jun 2023
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent reports
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Jan 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+PROJECTS
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+_ Evaluated AI/ML responses using BERT for toxicity, TextBlob for fluency, and cosine similarity for sentiment alignment; also applied
+prompt tuning and synthetic data generation techniques to enhance test coverage and model robustness
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Automation & Testing Tools: Selenium, Serenity, TestNG, Cucumber, Postman, SoapUI
+Testing Methodologies: Regression Testing, Unit Testing, API Testing, Agile, Scrum, SDLC, CI/CD (Jenkins, GitLab CI/CD)
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",QA Engineer
+Performance Test Engineer,"JMeter, LoadRunner, Performance Tuning","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Quality Lead Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Jan 2022 Ð Jun 2023
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent reports
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Jan 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+PROJECTS
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+_ Evaluated AI/ML responses using BERT for toxicity, TextBlob for fluency, and cosine similarity for sentiment alignment; also applied
+prompt tuning and synthetic data generation techniques to enhance test coverage and model robustness
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Automation & Testing Tools: Selenium, Serenity, TestNG, Cucumber, Postman, SoapUI
+Testing Methodologies: Regression Testing, Unit Testing, API Testing, Agile, Scrum, SDLC, CI/CD (Jenkins, GitLab CI/CD)
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",QA Engineer
+Quality Assurance Analyst,"JIRA, Confluence, Manual Testing, SQL, UAT","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Quality Lead Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Jan 2022 Ð Jun 2023
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent reports
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Jan 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+PROJECTS
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+_ Evaluated AI/ML responses using BERT for toxicity, TextBlob for fluency, and cosine similarity for sentiment alignment; also applied
+prompt tuning and synthetic data generation techniques to enhance test coverage and model robustness
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Automation & Testing Tools: Selenium, Serenity, TestNG, Cucumber, Postman, SoapUI
+Testing Methodologies: Regression Testing, Unit Testing, API Testing, Agile, Scrum, SDLC, CI/CD (Jenkins, GitLab CI/CD)
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",QA Engineer
+AI Engineer,"Python, TensorFlow, PyTorch, LLMs, Prompt Engineering","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner, Deep
+Dive into LLMs, Hands-On Essentials: Data Warehousing Workshop, Generative AI for Everyone (DeepLearning.AI)
+WORK EXPERIENCE
+AI Automation Engineer | Integrately Jan 2025 Ð Present
+_ Designed and tested AI-powered automation workflows for prospective Integrately customers, demonstrating use cases like lead
+qualification, auto-email follow-ups, and meeting scheduling to support onboarding and engagement teams
+_ Created pre-built AI workflow templates within Integrately combining native app integrations (Gmail, Slack, Google Sheets) and
+OpenAI-powered text generation steps, improving first-week customer activation rates by 15%
+_ Curated a library of AI use cases relevant to marketing, operations, and support workflows, enabling the customer success team
+to recommend tailored automations during onboarding calls
+_ Supported the internal growth and partnerships team by evaluating trending no-code AI tools (Zapier, n8n, Relay.app) to
+benchmark IntegratelyÕs AI workflow capabilities
+Data Scientist, Financial Operations & Reporting, | Persistent Systems Aug 2022 Ð Jun 2023
+_ Resolved processing delays in real-time loan approval systems handling 1M+ applications annually by automating risk scoring
+models and reducing financial exposure from manual assessments
+_ Engineered scalable ML pipelines using PySpark, XGBoost, and Random Forest on high-volume, tabular loan data;
+incorporated cross-validation and time-based backtesting to optimize default prediction accuracy
+_ Led model development, hyperparameter tuning, and validation cycles, improving risk scoring accuracy by 18%, accelerating
+loan approval speed by 70%, and reducing default risk by 20%, directly supporting portfolio risk management
+_ Developed model monitoring and performance dashboards in Tableau, enabling real-time tracking of approval rates, default
+predictions, and financial KPIs for operational and C-suite leaders
+_ Partnered with data engineering to optimize Python, SQL, and ETL workflows, reducing data preparation time by 40% and
+saving 500+ analyst hours monthly, while ensuring audit-readiness and operational reporting compliance
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing core AWS resources like VPCs, IAM roles, and Kubernetes
+clusters to ensure secure and consistent deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and system
+health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling, cutting
+chatbot response time by 30% and compute costs by 20%
+PROJECTS
+AI Workflow Orchestrator for Meetings, Notes, and Email Automation
+_ Built an AI-powered ops workflow using n8n, GPT-4, Whisper, and Postgres to handle scheduling, note-taking, file management,
+and voice transcription autonomously
+_ Automated meeting management, task tracking, and email drafting, eliminating operational chaos and acting as a 24/7 virtual
+Chief of Staff for remote teams and founders
+AI Doctor assistant (Python, LLM, NLP) | Github
+_ Developed an AI-powered medical assistant using Python, Groq multimodal LLM, Whisper STT, Llama-3.2 Vision Model,
+ElevenLabs TTS, gTTS, and Gradio UI for real-time voice and image diagnostics
+_ Integrated APIs securely to enable seamless access to advanced speech recognition and vision models. This enhanced diagnostic
+accuracy, achieving 85%+ accuracy and reducing consultation time by 35%
+TECHNICAL SKILLS
+Programming & Scripting: Python, SQL, R, C++, JavaScript, Java, Bash, SAS, Linux
+Databases & Data Platforms: MySQL, Oracle, Snowflake, Cassandra, Amazon RDS
+AI & Automation: GPT-4, Groq, LLaMA-3.2, OpenAI API, Hugging Face, Prompt Engineering, Prompt Chaining, LLM Evaluation,
+Machine Learning: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, Sentiment Analysis, Topic
+Modeling, A/B Testing, Bayesian inference, Tensorflow, Keras
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Git, GitLab, GitHub
+Data Visualization & ETL: Tableau, Power BI, Looker, Microsoft Excel, ELT (Extract Load Transform) pipelines",ML Engineer
+ML Engineer,"Scikit-learn, XGBoost, MLOps, Feature Engineering, Docker","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner, Deep
+Dive into LLMs, Hands-On Essentials: Data Warehousing Workshop, Generative AI for Everyone (DeepLearning.AI)
+WORK EXPERIENCE
+AI Automation Engineer | Integrately Jan 2025 Ð Present
+_ Designed and tested AI-powered automation workflows for prospective Integrately customers, demonstrating use cases like lead
+qualification, auto-email follow-ups, and meeting scheduling to support onboarding and engagement teams
+_ Created pre-built AI workflow templates within Integrately combining native app integrations (Gmail, Slack, Google Sheets) and
+OpenAI-powered text generation steps, improving first-week customer activation rates by 15%
+_ Curated a library of AI use cases relevant to marketing, operations, and support workflows, enabling the customer success team
+to recommend tailored automations during onboarding calls
+_ Supported the internal growth and partnerships team by evaluating trending no-code AI tools (Zapier, n8n, Relay.app) to
+benchmark IntegratelyÕs AI workflow capabilities
+Data Scientist, Financial Operations & Reporting, | Persistent Systems Aug 2022 Ð Jun 2023
+_ Resolved processing delays in real-time loan approval systems handling 1M+ applications annually by automating risk scoring
+models and reducing financial exposure from manual assessments
+_ Engineered scalable ML pipelines using PySpark, XGBoost, and Random Forest on high-volume, tabular loan data;
+incorporated cross-validation and time-based backtesting to optimize default prediction accuracy
+_ Led model development, hyperparameter tuning, and validation cycles, improving risk scoring accuracy by 18%, accelerating
+loan approval speed by 70%, and reducing default risk by 20%, directly supporting portfolio risk management
+_ Developed model monitoring and performance dashboards in Tableau, enabling real-time tracking of approval rates, default
+predictions, and financial KPIs for operational and C-suite leaders
+_ Partnered with data engineering to optimize Python, SQL, and ETL workflows, reducing data preparation time by 40% and
+saving 500+ analyst hours monthly, while ensuring audit-readiness and operational reporting compliance
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing core AWS resources like VPCs, IAM roles, and Kubernetes
+clusters to ensure secure and consistent deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and system
+health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling, cutting
+chatbot response time by 30% and compute costs by 20%
+PROJECTS
+AI Workflow Orchestrator for Meetings, Notes, and Email Automation
+_ Built an AI-powered ops workflow using n8n, GPT-4, Whisper, and Postgres to handle scheduling, note-taking, file management,
+and voice transcription autonomously
+_ Automated meeting management, task tracking, and email drafting, eliminating operational chaos and acting as a 24/7 virtual
+Chief of Staff for remote teams and founders
+AI Doctor assistant (Python, LLM, NLP) | Github
+_ Developed an AI-powered medical assistant using Python, Groq multimodal LLM, Whisper STT, Llama-3.2 Vision Model,
+ElevenLabs TTS, gTTS, and Gradio UI for real-time voice and image diagnostics
+_ Integrated APIs securely to enable seamless access to advanced speech recognition and vision models. This enhanced diagnostic
+accuracy, achieving 85%+ accuracy and reducing consultation time by 35%
+TECHNICAL SKILLS
+Programming & Scripting: Python, SQL, R, C++, JavaScript, Java, Bash, SAS, Linux
+Databases & Data Platforms: MySQL, Oracle, Snowflake, Cassandra, Amazon RDS
+AI & Automation: GPT-4, Groq, LLaMA-3.2, OpenAI API, Hugging Face, Prompt Engineering, Prompt Chaining, LLM Evaluation,
+Machine Learning: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, Sentiment Analysis, Topic
+Modeling, A/B Testing, Bayesian inference, Tensorflow, Keras
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Git, GitLab, GitHub
+Data Visualization & ETL: Tableau, Power BI, Looker, Microsoft Excel, ELT (Extract Load Transform) pipelines",ML Engineer
+LLM Engineer,"Transformers, LangChain, OpenAI, NLP, Python","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner, Deep
+Dive into LLMs, Hands-On Essentials: Data Warehousing Workshop, Generative AI for Everyone (DeepLearning.AI)
+WORK EXPERIENCE
+AI Automation Engineer | Integrately Jan 2025 Ð Present
+_ Designed and tested AI-powered automation workflows for prospective Integrately customers, demonstrating use cases like lead
+qualification, auto-email follow-ups, and meeting scheduling to support onboarding and engagement teams
+_ Created pre-built AI workflow templates within Integrately combining native app integrations (Gmail, Slack, Google Sheets) and
+OpenAI-powered text generation steps, improving first-week customer activation rates by 15%
+_ Curated a library of AI use cases relevant to marketing, operations, and support workflows, enabling the customer success team
+to recommend tailored automations during onboarding calls
+_ Supported the internal growth and partnerships team by evaluating trending no-code AI tools (Zapier, n8n, Relay.app) to
+benchmark IntegratelyÕs AI workflow capabilities
+Data Scientist, Financial Operations & Reporting, | Persistent Systems Aug 2022 Ð Jun 2023
+_ Resolved processing delays in real-time loan approval systems handling 1M+ applications annually by automating risk scoring
+models and reducing financial exposure from manual assessments
+_ Engineered scalable ML pipelines using PySpark, XGBoost, and Random Forest on high-volume, tabular loan data;
+incorporated cross-validation and time-based backtesting to optimize default prediction accuracy
+_ Led model development, hyperparameter tuning, and validation cycles, improving risk scoring accuracy by 18%, accelerating
+loan approval speed by 70%, and reducing default risk by 20%, directly supporting portfolio risk management
+_ Developed model monitoring and performance dashboards in Tableau, enabling real-time tracking of approval rates, default
+predictions, and financial KPIs for operational and C-suite leaders
+_ Partnered with data engineering to optimize Python, SQL, and ETL workflows, reducing data preparation time by 40% and
+saving 500+ analyst hours monthly, while ensuring audit-readiness and operational reporting compliance
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing core AWS resources like VPCs, IAM roles, and Kubernetes
+clusters to ensure secure and consistent deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and system
+health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling, cutting
+chatbot response time by 30% and compute costs by 20%
+PROJECTS
+AI Workflow Orchestrator for Meetings, Notes, and Email Automation
+_ Built an AI-powered ops workflow using n8n, GPT-4, Whisper, and Postgres to handle scheduling, note-taking, file management,
+and voice transcription autonomously
+_ Automated meeting management, task tracking, and email drafting, eliminating operational chaos and acting as a 24/7 virtual
+Chief of Staff for remote teams and founders
+AI Doctor assistant (Python, LLM, NLP) | Github
+_ Developed an AI-powered medical assistant using Python, Groq multimodal LLM, Whisper STT, Llama-3.2 Vision Model,
+ElevenLabs TTS, gTTS, and Gradio UI for real-time voice and image diagnostics
+_ Integrated APIs securely to enable seamless access to advanced speech recognition and vision models. This enhanced diagnostic
+accuracy, achieving 85%+ accuracy and reducing consultation time by 35%
+TECHNICAL SKILLS
+Programming & Scripting: Python, SQL, R, C++, JavaScript, Java, Bash, SAS, Linux
+Databases & Data Platforms: MySQL, Oracle, Snowflake, Cassandra, Amazon RDS
+AI & Automation: GPT-4, Groq, LLaMA-3.2, OpenAI API, Hugging Face, Prompt Engineering, Prompt Chaining, LLM Evaluation,
+Machine Learning: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, Sentiment Analysis, Topic
+Modeling, A/B Testing, Bayesian inference, Tensorflow, Keras
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Git, GitLab, GitHub
+Data Visualization & ETL: Tableau, Power BI, Looker, Microsoft Excel, ELT (Extract Load Transform) pipelines",ML Engineer
+AI/ML Engineer,"Python, MLOps, MLFlow, SageMaker, TensorFlow","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+NVIDIA-Certified Associate, Academy Accreditation (Generative AI Fundamentals (Databricks)), AWS Certified Cloud Practitioner, Deep
+Dive into LLMs, Hands-On Essentials: Data Warehousing Workshop, Generative AI for Everyone (DeepLearning.AI)
+WORK EXPERIENCE
+AI Automation Engineer | Integrately Jan 2025 Ð Present
+_ Designed and tested AI-powered automation workflows for prospective Integrately customers, demonstrating use cases like lead
+qualification, auto-email follow-ups, and meeting scheduling to support onboarding and engagement teams
+_ Created pre-built AI workflow templates within Integrately combining native app integrations (Gmail, Slack, Google Sheets) and
+OpenAI-powered text generation steps, improving first-week customer activation rates by 15%
+_ Curated a library of AI use cases relevant to marketing, operations, and support workflows, enabling the customer success team
+to recommend tailored automations during onboarding calls
+_ Supported the internal growth and partnerships team by evaluating trending no-code AI tools (Zapier, n8n, Relay.app) to
+benchmark IntegratelyÕs AI workflow capabilities
+Data Scientist, Financial Operations & Reporting, | Persistent Systems Aug 2022 Ð Jun 2023
+_ Resolved processing delays in real-time loan approval systems handling 1M+ applications annually by automating risk scoring
+models and reducing financial exposure from manual assessments
+_ Engineered scalable ML pipelines using PySpark, XGBoost, and Random Forest on high-volume, tabular loan data;
+incorporated cross-validation and time-based backtesting to optimize default prediction accuracy
+_ Led model development, hyperparameter tuning, and validation cycles, improving risk scoring accuracy by 18%, accelerating
+loan approval speed by 70%, and reducing default risk by 20%, directly supporting portfolio risk management
+_ Developed model monitoring and performance dashboards in Tableau, enabling real-time tracking of approval rates, default
+predictions, and financial KPIs for operational and C-suite leaders
+_ Partnered with data engineering to optimize Python, SQL, and ETL workflows, reducing data preparation time by 40% and
+saving 500+ analyst hours monthly, while ensuring audit-readiness and operational reporting compliance
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems July 2021 Ð Aug 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing core AWS resources like VPCs, IAM roles, and Kubernetes
+clusters to ensure secure and consistent deployments
+_ Implemented observability and monitoring tools using Prometheus, CloudWatch, and Grafana to track API latency and system
+health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, JMeter, and Gatling, cutting
+chatbot response time by 30% and compute costs by 20%
+PROJECTS
+AI Workflow Orchestrator for Meetings, Notes, and Email Automation
+_ Built an AI-powered ops workflow using n8n, GPT-4, Whisper, and Postgres to handle scheduling, note-taking, file management,
+and voice transcription autonomously
+_ Automated meeting management, task tracking, and email drafting, eliminating operational chaos and acting as a 24/7 virtual
+Chief of Staff for remote teams and founders
+AI Doctor assistant (Python, LLM, NLP) | Github
+_ Developed an AI-powered medical assistant using Python, Groq multimodal LLM, Whisper STT, Llama-3.2 Vision Model,
+ElevenLabs TTS, gTTS, and Gradio UI for real-time voice and image diagnostics
+_ Integrated APIs securely to enable seamless access to advanced speech recognition and vision models. This enhanced diagnostic
+accuracy, achieving 85%+ accuracy and reducing consultation time by 35%
+TECHNICAL SKILLS
+Programming & Scripting: Python, SQL, R, C++, JavaScript, Java, Bash, SAS, Linux
+Databases & Data Platforms: MySQL, Oracle, Snowflake, Cassandra, Amazon RDS
+AI & Automation: GPT-4, Groq, LLaMA-3.2, OpenAI API, Hugging Face, Prompt Engineering, Prompt Chaining, LLM Evaluation,
+Machine Learning: Supervised/Unsupervised Learning, Predictive Modeling, Deep Learning (CNN, RNN), NLP, Sentiment Analysis, Topic
+Modeling, A/B Testing, Bayesian inference, Tensorflow, Keras
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Git, GitLab, GitHub
+Data Visualization & ETL: Tableau, Power BI, Looker, Microsoft Excel, ELT (Extract Load Transform) pipelines",ML Engineer
+AI QA Engineer,"Model Testing, Python, Data Validation, QA Strategies","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Quality Lead Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Jan 2022 Ð Jun 2023
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent reports
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Jan 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+PROJECTS
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+_ Evaluated AI/ML responses using BERT for toxicity, TextBlob for fluency, and cosine similarity for sentiment alignment; also applied
+prompt tuning and synthetic data generation techniques to enhance test coverage and model robustness
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Automation & Testing Tools: Selenium, Serenity, TestNG, Cucumber, Postman, SoapUI
+Testing Methodologies: Regression Testing, Unit Testing, API Testing, Agile, Scrum, SDLC, CI/CD (Jenkins, GitLab CI/CD)
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",QA Engineer
+ML Quality Engineer,"Sklearn, Model Drift, Python, Test Automation","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Quality Lead Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Jan 2022 Ð Jun 2023
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent reports
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Jan 2022
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+PROJECTS
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+_ Evaluated AI/ML responses using BERT for toxicity, TextBlob for fluency, and cosine similarity for sentiment alignment; also applied
+prompt tuning and synthetic data generation techniques to enhance test coverage and model robustness
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Automation & Testing Tools: Selenium, Serenity, TestNG, Cucumber, Postman, SoapUI
+Testing Methodologies: Regression Testing, Unit Testing, API Testing, Agile, Scrum, SDLC, CI/CD (Jenkins, GitLab CI/CD)
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",QA Engineer
+Data Engineer,"SQL, Python, Spark, Airflow, ETL, Data Warehousing","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Data Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Aug 2022 Ð Jun 2023
+_ Faced data processing delays in ETL and ELT pipelines supporting a high-volume loan eligibility system with 2M+ customer
+applications monthly, slowing financial risk analysis and reporting cycles
+_ Refactored and optimized data workflows using Snowflake, Azure Data Factory, and Databricks, improving data processing
+speed by 25Ð30% and reducing ETL job failures by 20%
+_ Led the migration of 120+ TB of financial and transactional data from legacy SQL servers to Amazon S3, Redshift, and
+Athena, cutting average query latency by 35% and enhancing data retrieval for analytics teams
+_ Automated real-time data ingestion and reporting pipelines with Apache Kafka, Airflow, and dbt, reducing manual data prep
+by 25% and enabling operational dashboards in Tableau with near real-time loan eligibility and risk insights
+_ Collaborated closely with Business Analysts and QA teams to validate data accuracy, optimize data quality checks, and
+troubleshoot operational bottlenecks, improving end-to-end release efficiency by 20%
+_ Delivered faster, more reliable data pipelines that allowed the clientÕs financial operations team to process loan applications
+and assess credit risk 30% faster, improving customer satisfaction and meeting regulatory SLAs
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Aug 2022
+_ Improved performance, scalability, and data access in a fragmented microservices environment, accelerating financial risk
+analysis, regulatory reporting, operational insights, and model deployments
+_ Built secure, scalable, serverless APIs with AWS Lambda, API Gateway, and gRPC, and automated CI/CD pipelines using
+Jenkins, GitLab CI/CD, and AWS CodePipeline for faster, reliable, and compliant releases
+_ Deployed, monitored, and optimized ML models via AWS SageMaker; integrated multi-cloud data sources (Snowflake,
+Redshift) to enhance analytics reliability and scalability, boosting API response times by 40%, reducing data latency by 20%,
+and delivering real-time, actionable loan risk insights through AWS QuickSight dashboards for operational decision-making
+Data Analyst | CompanyHub | Mumbai, India July 2019 Ð July 2021
+_ Addressed data fragmentation issues impacting customer feature adoption and engagement insights for a CRM platform
+with 10K+ users, enabling data-driven decision-making
+_ Streamlined SQL-based ETL pipelines and developed Power BI dashboards with Python, improving data accuracy by 35%,
+reducing reporting turnaround by 60%, and boosting feature adoption by 40%
+_ Collaborated with product managers and engineers to align analytics with business goals, driving platform enhancements
+and targeted customer strategies
+PROJECTS
+Streaming Media Analysis (Netflix) (Snowflake, dbt, Azure, PowerBI) | Github
+_ Engineered a scalable ELT pipeline leveraging Azure Blob Storage, Snowflake, and dbt, transforming 10M+ raw NetFlix
+records into a high-performance analytics warehouse optimized for complex querying
+_ Designed and implemented a dimensional star schema with fact and dimension tables, modeling Operational Business
+Transactions (OBT) to enable near real-time audience analytics and content performance insights
+_ Integrated Power BI dashboards powered by advanced DAX and incremental Snowflake data models, delivering
+actionable insights on user engagement, subscription churn, and content trends for business stakeholders
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries
+_ Built an interactive Tableau dashboard visualizing salary ranges, job clusters, and in-demand skills for 1,000+ users to make
+informed career moves
+TECHNICAL SKILLS
+Programming & Scripting: Python, C++, SQL, Java, Bash, SAS, Linux, PySpark, R
+Data Engineering & Orchestration: ETL/ELT, Data Warehousing, Data Modeling, Feature Engineering, Apache Airflow, dbt
+Cloud Platforms & Services: AWS (Glue, Redshift, S3, Lambda, Kinesis), GCP (BigQuery, Dataflow), Azure (Data Factory, Synapse)
+Databases & Storage: Snowflake, Redshift, PostgreSQL, MySQL, MongoDB
+Big Data & Streaming: Apache Spark, Apache Kafka, Databricks Delta Lake
+DevOps & Infrastructure Automation: Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitLab CI/CD, AWS CodePipeline)",Data Engineer
+Data Pipeline Engineer,"ETL, Python, Apache Airflow, Kafka, BigQuery","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Data Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Aug 2022 Ð Jun 2023
+_ Faced data processing delays in ETL and ELT pipelines supporting a high-volume loan eligibility system with 2M+ customer
+applications monthly, slowing financial risk analysis and reporting cycles
+_ Refactored and optimized data workflows using Snowflake, Azure Data Factory, and Databricks, improving data processing
+speed by 25Ð30% and reducing ETL job failures by 20%
+_ Led the migration of 120+ TB of financial and transactional data from legacy SQL servers to Amazon S3, Redshift, and
+Athena, cutting average query latency by 35% and enhancing data retrieval for analytics teams
+_ Automated real-time data ingestion and reporting pipelines with Apache Kafka, Airflow, and dbt, reducing manual data prep
+by 25% and enabling operational dashboards in Tableau with near real-time loan eligibility and risk insights
+_ Collaborated closely with Business Analysts and QA teams to validate data accuracy, optimize data quality checks, and
+troubleshoot operational bottlenecks, improving end-to-end release efficiency by 20%
+_ Delivered faster, more reliable data pipelines that allowed the clientÕs financial operations team to process loan applications
+and assess credit risk 30% faster, improving customer satisfaction and meeting regulatory SLAs
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Aug 2022
+_ Improved performance, scalability, and data access in a fragmented microservices environment, accelerating financial risk
+analysis, regulatory reporting, operational insights, and model deployments
+_ Built secure, scalable, serverless APIs with AWS Lambda, API Gateway, and gRPC, and automated CI/CD pipelines using
+Jenkins, GitLab CI/CD, and AWS CodePipeline for faster, reliable, and compliant releases
+_ Deployed, monitored, and optimized ML models via AWS SageMaker; integrated multi-cloud data sources (Snowflake,
+Redshift) to enhance analytics reliability and scalability, boosting API response times by 40%, reducing data latency by 20%,
+and delivering real-time, actionable loan risk insights through AWS QuickSight dashboards for operational decision-making
+Data Analyst | CompanyHub | Mumbai, India July 2019 Ð July 2021
+_ Addressed data fragmentation issues impacting customer feature adoption and engagement insights for a CRM platform
+with 10K+ users, enabling data-driven decision-making
+_ Streamlined SQL-based ETL pipelines and developed Power BI dashboards with Python, improving data accuracy by 35%,
+reducing reporting turnaround by 60%, and boosting feature adoption by 40%
+_ Collaborated with product managers and engineers to align analytics with business goals, driving platform enhancements
+and targeted customer strategies
+PROJECTS
+Streaming Media Analysis (Netflix) (Snowflake, dbt, Azure, PowerBI) | Github
+_ Engineered a scalable ELT pipeline leveraging Azure Blob Storage, Snowflake, and dbt, transforming 10M+ raw NetFlix
+records into a high-performance analytics warehouse optimized for complex querying
+_ Designed and implemented a dimensional star schema with fact and dimension tables, modeling Operational Business
+Transactions (OBT) to enable near real-time audience analytics and content performance insights
+_ Integrated Power BI dashboards powered by advanced DAX and incremental Snowflake data models, delivering
+actionable insights on user engagement, subscription churn, and content trends for business stakeholders
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries
+_ Built an interactive Tableau dashboard visualizing salary ranges, job clusters, and in-demand skills for 1,000+ users to make
+informed career moves
+TECHNICAL SKILLS
+Programming & Scripting: Python, C++, SQL, Java, Bash, SAS, Linux, PySpark, R
+Data Engineering & Orchestration: ETL/ELT, Data Warehousing, Data Modeling, Feature Engineering, Apache Airflow, dbt
+Cloud Platforms & Services: AWS (Glue, Redshift, S3, Lambda, Kinesis), GCP (BigQuery, Dataflow), Azure (Data Factory, Synapse)
+Databases & Storage: Snowflake, Redshift, PostgreSQL, MySQL, MongoDB
+Big Data & Streaming: Apache Spark, Apache Kafka, Databricks Delta Lake
+DevOps & Infrastructure Automation: Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitLab CI/CD, AWS CodePipeline)",Data Engineer
+Big Data Engineer,"Hadoop, Spark, Scala, Hive, AWS","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Data Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Aug 2022 Ð Jun 2023
+_ Faced data processing delays in ETL and ELT pipelines supporting a high-volume loan eligibility system with 2M+ customer
+applications monthly, slowing financial risk analysis and reporting cycles
+_ Refactored and optimized data workflows using Snowflake, Azure Data Factory, and Databricks, improving data processing
+speed by 25Ð30% and reducing ETL job failures by 20%
+_ Led the migration of 120+ TB of financial and transactional data from legacy SQL servers to Amazon S3, Redshift, and
+Athena, cutting average query latency by 35% and enhancing data retrieval for analytics teams
+_ Automated real-time data ingestion and reporting pipelines with Apache Kafka, Airflow, and dbt, reducing manual data prep
+by 25% and enabling operational dashboards in Tableau with near real-time loan eligibility and risk insights
+_ Collaborated closely with Business Analysts and QA teams to validate data accuracy, optimize data quality checks, and
+troubleshoot operational bottlenecks, improving end-to-end release efficiency by 20%
+_ Delivered faster, more reliable data pipelines that allowed the clientÕs financial operations team to process loan applications
+and assess credit risk 30% faster, improving customer satisfaction and meeting regulatory SLAs
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Aug 2022
+_ Improved performance, scalability, and data access in a fragmented microservices environment, accelerating financial risk
+analysis, regulatory reporting, operational insights, and model deployments
+_ Built secure, scalable, serverless APIs with AWS Lambda, API Gateway, and gRPC, and automated CI/CD pipelines using
+Jenkins, GitLab CI/CD, and AWS CodePipeline for faster, reliable, and compliant releases
+_ Deployed, monitored, and optimized ML models via AWS SageMaker; integrated multi-cloud data sources (Snowflake,
+Redshift) to enhance analytics reliability and scalability, boosting API response times by 40%, reducing data latency by 20%,
+and delivering real-time, actionable loan risk insights through AWS QuickSight dashboards for operational decision-making
+Data Analyst | CompanyHub | Mumbai, India July 2019 Ð July 2021
+_ Addressed data fragmentation issues impacting customer feature adoption and engagement insights for a CRM platform
+with 10K+ users, enabling data-driven decision-making
+_ Streamlined SQL-based ETL pipelines and developed Power BI dashboards with Python, improving data accuracy by 35%,
+reducing reporting turnaround by 60%, and boosting feature adoption by 40%
+_ Collaborated with product managers and engineers to align analytics with business goals, driving platform enhancements
+and targeted customer strategies
+PROJECTS
+Streaming Media Analysis (Netflix) (Snowflake, dbt, Azure, PowerBI) | Github
+_ Engineered a scalable ELT pipeline leveraging Azure Blob Storage, Snowflake, and dbt, transforming 10M+ raw NetFlix
+records into a high-performance analytics warehouse optimized for complex querying
+_ Designed and implemented a dimensional star schema with fact and dimension tables, modeling Operational Business
+Transactions (OBT) to enable near real-time audience analytics and content performance insights
+_ Integrated Power BI dashboards powered by advanced DAX and incremental Snowflake data models, delivering
+actionable insights on user engagement, subscription churn, and content trends for business stakeholders
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries
+_ Built an interactive Tableau dashboard visualizing salary ranges, job clusters, and in-demand skills for 1,000+ users to make
+informed career moves
+TECHNICAL SKILLS
+Programming & Scripting: Python, C++, SQL, Java, Bash, SAS, Linux, PySpark, R
+Data Engineering & Orchestration: ETL/ELT, Data Warehousing, Data Modeling, Feature Engineering, Apache Airflow, dbt
+Cloud Platforms & Services: AWS (Glue, Redshift, S3, Lambda, Kinesis), GCP (BigQuery, Dataflow), Azure (Data Factory, Synapse)
+Databases & Storage: Snowflake, Redshift, PostgreSQL, MySQL, MongoDB
+Big Data & Streaming: Apache Spark, Apache Kafka, Databricks Delta Lake
+DevOps & Infrastructure Automation: Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitLab CI/CD, AWS CodePipeline)",Data Engineer
+Data Warehouse Engineer,"Snowflake, Redshift, SQL, ETL, DBT","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Data Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India Aug 2022 Ð Jun 2023
+_ Faced data processing delays in ETL and ELT pipelines supporting a high-volume loan eligibility system with 2M+ customer
+applications monthly, slowing financial risk analysis and reporting cycles
+_ Refactored and optimized data workflows using Snowflake, Azure Data Factory, and Databricks, improving data processing
+speed by 25Ð30% and reducing ETL job failures by 20%
+_ Led the migration of 120+ TB of financial and transactional data from legacy SQL servers to Amazon S3, Redshift, and
+Athena, cutting average query latency by 35% and enhancing data retrieval for analytics teams
+_ Automated real-time data ingestion and reporting pipelines with Apache Kafka, Airflow, and dbt, reducing manual data prep
+by 25% and enabling operational dashboards in Tableau with near real-time loan eligibility and risk insights
+_ Collaborated closely with Business Analysts and QA teams to validate data accuracy, optimize data quality checks, and
+troubleshoot operational bottlenecks, improving end-to-end release efficiency by 20%
+_ Delivered faster, more reliable data pipelines that allowed the clientÕs financial operations team to process loan applications
+and assess credit risk 30% faster, improving customer satisfaction and meeting regulatory SLAs
+Cloud Engineer, Financial Operations & Reporting | Persistent Systems| Mumbai, India July 2021 Ð Aug 2022
+_ Improved performance, scalability, and data access in a fragmented microservices environment, accelerating financial risk
+analysis, regulatory reporting, operational insights, and model deployments
+_ Built secure, scalable, serverless APIs with AWS Lambda, API Gateway, and gRPC, and automated CI/CD pipelines using
+Jenkins, GitLab CI/CD, and AWS CodePipeline for faster, reliable, and compliant releases
+_ Deployed, monitored, and optimized ML models via AWS SageMaker; integrated multi-cloud data sources (Snowflake,
+Redshift) to enhance analytics reliability and scalability, boosting API response times by 40%, reducing data latency by 20%,
+and delivering real-time, actionable loan risk insights through AWS QuickSight dashboards for operational decision-making
+Data Analyst | CompanyHub | Mumbai, India July 2019 Ð July 2021
+_ Addressed data fragmentation issues impacting customer feature adoption and engagement insights for a CRM platform
+with 10K+ users, enabling data-driven decision-making
+_ Streamlined SQL-based ETL pipelines and developed Power BI dashboards with Python, improving data accuracy by 35%,
+reducing reporting turnaround by 60%, and boosting feature adoption by 40%
+_ Collaborated with product managers and engineers to align analytics with business goals, driving platform enhancements
+and targeted customer strategies
+PROJECTS
+Streaming Media Analysis (Netflix) (Snowflake, dbt, Azure, PowerBI) | Github
+_ Engineered a scalable ELT pipeline leveraging Azure Blob Storage, Snowflake, and dbt, transforming 10M+ raw NetFlix
+records into a high-performance analytics warehouse optimized for complex querying
+_ Designed and implemented a dimensional star schema with fact and dimension tables, modeling Operational Business
+Transactions (OBT) to enable near real-time audience analytics and content performance insights
+_ Integrated Power BI dashboards powered by advanced DAX and incremental Snowflake data models, delivering
+actionable insights on user engagement, subscription churn, and content trends for business stakeholders
+Job Market Analysis (Python, NLP, Tableau) | Github
+_ Analyzed 10K+ job postings using Python, LLM-based NLP techniques (TF-IDF, NER, Word Cloud), tokenization, and topic
+modeling to extract salary benchmarks, skill trends, and market gaps across 15+ industries
+_ Built an interactive Tableau dashboard visualizing salary ranges, job clusters, and in-demand skills for 1,000+ users to make
+informed career moves
+TECHNICAL SKILLS
+Programming & Scripting: Python, C++, SQL, Java, Bash, SAS, Linux, PySpark, R
+Data Engineering & Orchestration: ETL/ELT, Data Warehousing, Data Modeling, Feature Engineering, Apache Airflow, dbt
+Cloud Platforms & Services: AWS (Glue, Redshift, S3, Lambda, Kinesis), GCP (BigQuery, Dataflow), Azure (Data Factory, Synapse)
+Databases & Storage: Snowflake, Redshift, PostgreSQL, MySQL, MongoDB
+Big Data & Streaming: Apache Spark, Apache Kafka, Databricks Delta Lake
+DevOps & Infrastructure Automation: Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitLab CI/CD, AWS CodePipeline)",Data Engineer
+Cloud Data Engineer,"Azure, AWS, GCP, Python, Terraform","Isha Agrawal
+680-356-8543 | ishaagrawal2000@gmail.com | LinkedIn | GitHub | San Jose, CA, USA
+EDUCATION
+Syracuse University, School of Information Studies, Syracuse, NY Aug 2023 Ð May 2025
+Master of Science in Information Systems| Advance Study in Data Science
+CERTIFICATIONS & COURSES
+Hands-On Essentials: Data Warehousing Workshop (Snowflake)| Microsoft Azure Data Engineer (DP-203) | AWS Certified Cloud
+Practitioner | NVIDIA-Certified Associate | Academy Accreditation (Generative AI Fundamentals (Databricks))
+WORK EXPERIENCE
+Software Engineer, Financial Operations & Reporting | Persistent Systems Jan 2022 Ð Jun 2023
+_ Deployed and managed the backend infrastructure of a high-traffic banking website on AWS EKS, ensuring high availability,
+scalability, and reliability of cloud-native services powering critical financial APIs for loan eligibility and decisioning
+_ Designed ELT pipelines using Apache Airflow and Snowflake to ingest and transform API logs, telemetry, powering real-time
+dashboards, compliance reporting, and operational insights
+_ Automated infrastructure provisioning with Terraform, managing VPCs, IAM roles, subnets, load balancers, and Kubernetes
+clusters to ensure consistent, secure, and efficient deployments
+_ Implemented observability and monitoring tools using Prometheus, OpenTelemetry, CloudWatch, and Grafana to track API latency
+and system health, improving reliability and reducing downtime
+_ Enhanced performance through CI/CD automation and testing, using GitLab CI, AWS CodePipeline, ArgoCD, JMeter, and Gatling,
+cutting chatbot response time by 30% and compute costs by 20%
+Software Engineer, Financial Operations & Reporting | Persistent Systems Jul 2021 Ð Jan 2022
+_ Led a QA team of 5 engineers supporting a large-scale, high-traffic financial loan decisioning platform; managed over 1,500 manual
+test cases using Zephyr in Jira and resolved critical data validation issues causing frequent release delays and inconsistent report
+_ Designed and implemented modular UI and API automation frameworks (Selenium, Java, TestNG, Cucumber BDD, Cypress, Rest
+Assured), improving automation coverage from 45% to 80% and reducing manual regression testing effort by 60% per release
+_ Integrated automated test suites into Jenkins CI/CD pipelines, enabling parallel test execution that cut test feedback loop time by
+50% and accelerated deployment cycles by 30%
+_ Developed advanced test strategies covering edge cases and fault injections, reducing critical post-release bugs by 25% and
+improving pre-release issue detection rate by 45%
+_ Facilitated cross-functional collaboration with developers, product managers, business analysts, and client teams to align release
+goals, test coverage, and sprint risks, leading to a 25% drop in production bugs and improved SLA adherence
+_ Defined and monitored key QA metrics such as defect leakage rate, test case effectiveness, coverage gaps, and automation ROI to
+guide sprint planning and refine test design, while ensuring adherence to the full Software Development Life Cycle (SDLC)
+_ Mentored 10+ QA engineers, boosting team automation contribution rate by 40% and reducing review turnaround time by 35%
+through code reviews and collaborative development sessions
+_ Improved test execution reliability and scalability by applying robust test data management practices and leveraging SQL Server for
+backend data validations under high-load and edge-case testing conditions
+PROJECTS
+AI Doctor Assistant (Python, Multimodal LLM, Gradio)
+_ Developed an AI medical assistant using Python, GroqÕs Multimodal LLM, Whisper STT, and LLaMA-3.2 Vision for real-time
+diagnostics & patient interaction. Built a Gradio UI for seamless speech, image, and text queries, delivering AI-driven insights
+_ Integrated ElevenLabs TTS and gTTS APIs for lifelike voice feedback, enhancing user experience and accessibility, with future
+enhancements planned for advanced image recognition and expanded medical knowledge integration
+Netflix clone (React JS)
+_ Developed a Netflix Clone using React.js, Firebase, and TMDB API, implementing user authentication, dynamic movie
+retrieval, and responsive UI for an interactive streaming experience
+_ Integrated REST APIs using Axios to fetch and display real-time movie data, utilizing React Router for seamless
+navigation and Bootstrap for enhanced UI/UX
+LLM Evaluation Framework for Chatbot Testing
+_ Built a lightweight evaluation pipeline using Hugging FaceÕs Phi-3 model to test chatbot responses across key metrics like fluency,
+coherence, completeness, relevance, and toxicity
+_ Integrated semantic similarity, sentiment analysis, and toxicity detection to generate automated response scores and simulate
+CI/CD testing via Jenkins using pre-generated evaluation CSVs
+TECHNICAL SKILLS
+Programming & Scripting: Python, R, SQL, SAS, Bash, Java, C++
+Cloud Platforms: AWS (S3, Lambda, RDS), Azure, GCP
+Data & Databases: MySQL, Snowflake, Oracle, Amazon RDS, Dimensional Modeling, ETL, ELT
+Analytics & Visualization: Power BI, Tableau, AWS QuickSight, Excel (Pivot Tables, VLOOKUP), EDA, A/B Testing
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps
+ML & AI Applications: Supervised/Unsupervised Learning, Predictive Modeling, NLP, LLMs, Generative AI, Deep Learning",Data Engineer
